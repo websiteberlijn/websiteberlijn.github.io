@@ -44,6 +44,7 @@ table{
   color: white;
   background-image: linear-gradient(to right, blue , turquoise);
   border-radius: 25px;
+  padding: 10%; 
 }
 
 #ios{
