@@ -25,6 +25,7 @@ html{
 	background-size: cover;
 	background-position: center;
 	padding: 0;
+	overflow: hidden;
 }
 
 table{
@@ -32,7 +33,6 @@ table{
 	height: 30%;
 	text-align: center;
 	margin-bottom: 50%;
-	overflow: hidden;
 }
 
 #demo {
